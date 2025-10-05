@@ -1,0 +1,60 @@
+dheere-dheere-se-meri-ashiqui - G#m - 4/4
+
+intro:
+a.sax        | G#m7 | % | C#m | % |
+             | F#7 | % | B | % |
+
+gtr          | G#m | % | % | % |
+             | G#m | % | E | % |
+
+str          | G#m | % | % | % |
+---
+verse 1:
+dheere       [| G#m | % | F# | D#m |
+dheere       | G#m | % | % | % |]   x2
+
+dheere       [| G#m | % | F# | D#m |
+dheere       | G#m | % | % | % |]   x2
+---
+int 1:
+piano        | G#m | % | F# | % |
+             | F# | % | G#m | % |
+
+sax          | G#m | B | C#m | % |
+             | C#m | F# | B | % |
+
+str          | G#m | F# | G#m | % | 
+---
+verse 2:
+            [
+jab se       | G#m | % | % | % |
+             | F# | % | % | % |
+
+
+mere         | F# | % | % | % |
+             | G#m | % |
+
+gtr          (1: | G#m | % | % | % |) (2: sax | G#m | % |)
+
+            ] x2
+---
+bangaya     [| G#m | % | F# | D#m |
+dheere       | G#m | % | % | % |]   x2
+---
+int 2:
+harmonica   | G#m | % | B | % |
+            | C#m | % | G#m | % |
+
+str         | G#m | % | B | % |
+            | C#m | % | G#m | % |
+
+gtr         | G#m | % | % | % |
+            | F# | % | G#m | % |
+---
+verse 2:
+---
+verse 1:
+---
+ending:
+harmonica   [| G#m | % | F#m | D#m |
+             | G#m | % | % | % |]   x2

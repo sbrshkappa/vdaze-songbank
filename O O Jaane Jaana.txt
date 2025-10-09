@@ -1,0 +1,57 @@
+O O Jaane Jaana - Gm
+
+intro:
+brass.sax   | - | - | - | - |
+            | Gm | F | Dm | Eb , F , | x 2
+            | Gm | Gm , F , | Gm | Gm , F , |
+            | Gm |
+
+piano.arp   | Gm | % | % | % |
+oooo...     | Eb | Drum Solo |
+            | Gm | % | Eb | Drum Solo |
+
+Main guitar | - | - | - | - |
+I Love you  | Gm | F | Dm | Eb , F , | x 2
+O O Jaane.. | Gm | F | Dm | Eb , F , | x 2
+
+Main guitar | Gm | F | Dm | Eb , F , |
+---
+Int 1:
+Trumpets    | Gm | % | % | F | % |
+Guitar solo | Eb | Dm | F | Gm |
+            | Gm , F , | F Gm F Gm | Gm , F , | Eb , Dm , | , F , (&F) , | F |
+---
+verse 1:
+Mera Khwaab | Gm , F , | Dm , Gm , | Eb , F , | Dm , Gm , |
+            | empty bar only drums | % |
+            | Gm , F , | Dm , Gm , | Eb , F , | Dm , Gm , |
+
+Aye Meri    | C | Bb | F | D |
+
+gtr.lick+v  | Gm | F | Dm | Eb , F , | 
+---
+chorus:
+O O Jaane.. | Gm | F | Dm | Eb , F , |
+Main guitar | Gm | F | Dm | Eb , F , |           
+
+----
+Int 1 (repeat)
+---
+verse 2:
+Kisi.       | Gm , F , | Dm , Gm , | Eb , F , | Dm , Gm , |
+            | empty bar only drums | % |
+            | Gm , F , | Dm , Gm , | Eb , F , | Dm , Gm , |
+
+Sochta      | C | Bb | F | D |
+---
+chorus:
+
+O O Jaane.. | Gm | F | Dm | Eb , F , | x 2
+Main guitar | Gm | F | Dm | Eb , F , | x 2
+
+O O Jaane.. | Gm | F | Dm | Eb , F , | x 2
+---
+outro:
+lst.bar.sync| Gm | F | Dm | Eb , F , | x 2
+            | Gm |
+---

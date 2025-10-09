@@ -1,0 +1,65 @@
+aj-kal-tere-mere - A - 2/4
+
+intro:
+
+Accordion   | - | A | - | A |
+
+Guitar      | SRSn nSRG|GMGR RGMP| PP MM GG RR | PMGRSndp|
+
+Rythm       | A | % | % | % - |
+            | A | % | % | % |
+
+
+Str/Acc     | A | D | A | % |
+Acc         | A | % | % | % |
+            | A | D | A | % |
+
+
+Guitar/mandolin     | p.S p.pS| p.S p.pS | p.S p.pS| S |
+------------------
+verse 1:
+
+Aajkal      [| A | % | Bm | % |
+Sabko        | E7 | % | A | % |] x3
+-----------------
+interlude 1:
+
+Sax     [| A | % | % | % |
+         | A | % | % | % |]
+
+Strings          | D | A | x2
+Mandolin         | A | % |
+----------------------------------------------
+verse 2:
+
+Humne       [| A | % | % | % |
+Pyar         | E | % | % | A |] x2
+
+Pyar         | D | A | C#m | A |
+
+Aajkal       | A | % | Bm | % |
+Sabko        | E7 | % | A | % | x2
+---------------------
+interlude 1:
+---------------------
+verse 2:
+---------------------
+interlude 2:
+
+Accordion   | E5| % | % | 
+
+
+Oct+1 piano   [ | A | % | % | % |
+                | E | % | A | % | ] x2
+
+
+Strings          | D | A | x2
+Mandolin         | A | % |
+-----------------------
+verse 2:
+----------------------
+Accordion   | .(grs)r|
+
+Accordion   | A | % | % | % |
+            | A | D | A | % |
+

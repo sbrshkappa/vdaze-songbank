@@ -1,0 +1,35 @@
+Dil Kya Kare - G#m
+
+intro:
+
+gtr.trmpts      | G#m | F# | E | F# |
+
+dil kya...      | G#m | F#  | C#m | G#m | x 2
+unchi...        | B | A | % | E | x 2
+dil kya...      | G#m | F#  | C#m | G#m |
+
+---
+int:
+Trumpets        | G#m | F#  | C#m | G#m |
+---
+verse 1:
+
+jaise...        | G#m | % | % | % |
+                | C#m | - |
+                | G#m | % | % | % |
+                | C#m | D#m |
+
+rok de..        | B | A | % | E | x 2
+dil kya...      | G#m | F#  | C#m | G#m |
+
+---
+int (repeat)
+---
+verse2:
+
+A mein..        | G#m | % | % | % |
+                | C#m | D#m |
+
+Daud raha..      | B | A | % | E | x 2
+
+dil kya...      | G#m | F#  | C#m | G#m |

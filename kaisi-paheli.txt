@@ -1,0 +1,39 @@
+Kaisi Paheli - Bb
+
+intro:
+
+gtr         | Bb , Gm ,| Cm , F , | Bb , Gm ,| Cm , F , | x 2
+sax         | Bb , Gm ,| Cm , F , |
+
+nayi...     | Bb | % | Cm | % |
+            | F | % | Bb | % | 
+thaama...   | Bb | % | Cm | % |
+            | F | % | Bb | % | 
+
+La..la..la  [| Bb | % | Cm | % |
+            | F | % | Bb | % |] x 2
+
+Pal Me..    [| Bb | % | Cm | % |
+            | F | % | Bb | % | ] x2
+---
+int:
+
+trmpts      [| Bb | % | % | F | % |
+            | F | % | % | Bb | % |] x 2
+sax         | Bb | % | Cm | % |
+            | F | % | Bb | % | 
+---
+chorus:
+La..la..la  [| Bb | % | Cm | % |
+            | F | % | Bb | % |] x 2
+
+aakhon..   [| Bb | % | Cm | % |
+            | F | % | Bb | % |] x 2
+--
+suri..      [| Bb | % | Cm | % |
+            | F | % | Bb | % |] x 2
+--
+outro:
+
+nayi...     [| Bb | % | Cm | % |
+            | F | % | Bb | % | ] x 2

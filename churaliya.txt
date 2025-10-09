@@ -1,0 +1,47 @@
+Churaliya - Am - 2/4
+
+Bell/Guitar	 | - | - | - | - |
+12 string	 | F-5M7 | % | E4 | % |
+
+Guitar solo      | Am | % | % | % | 
+		 | F-5M7 | % | Dm6 | % | E | % |
+
+Strings		 | Am | % | % | % | % | % |
+----------------
+A:
+Churaliya	 | - | - | G | % |
+Nazar		 | Am | % | E | % |
+Badal		 | Am | % | G | % | (-|-|...mp|d2ns n)
+Kahi		 | Am | % | E | % |
+Leliya		 | E | % | % | % |
+Lekar		 | A | % | 
+
+Churaliya	 | Am | % | G | % |
+Nazar		 | Am | % | E | % |
+Badal		 | Am | % | G | % |
+Kahi		 | Am | % | % | % |
+----------------
+Interlude 1:
+Solo violin	 | E | % | % | % | 
+12 string	 | A7 | % | % | Am | 
+-----------------
+B:
+Bahar		| Am G | G | Am | % | x4
+Tum mere	| E | % | % | % |
+Kitna		| A | % | 
+
+Churaliya	| Am - | - |  (Sax|, gm|pd2 (rG)R)
+
+Churaliya	 | Am | % | G | % |
+Nazar		 | Am | % | E | % |
+Badal		 | Am | % | G | % | (-|-|...mp|d2ns n)
+Kahi		 | Am | % | % | % | % | % | (flute/(acc) |-|-|s rgr s| .(s rgr s)| 2% |)
+-----------------
+Interlude 2:
+El guitar lead   | Am | % | G | % | 
+		 | G | % | Am | % |  (|-|-|strings p.d1 n1n2|)
+Strings		 | Am | % | G | % |          (accordion|-|S~p|-|-|
+		 | F | % | Am | % | % | % |  (acc |-|d1~~~|S (s rgrs flute)|.(s rgr s)| 2%)
+-----------------
+Repeat B:
+-------------

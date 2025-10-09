@@ -1,0 +1,49 @@
+pehla-nasha - E - 4/4
+
+intro:
+piano    | - | - | - | - | x3
+
+chahe 	 | E | A | E | E B | 
+         | E | B | C#4 | A | 
+         | B4 | % | B | B perc |
+
+piano    [| E | % | C#m | % |
+         | A | % | B | % |] x2
+--- 
+A:
+pehla    | E | C#m | B | % | x2
+karlun   | A | E | A | B |
+         | A | E | B | % |
+---
+pehla    | E | C#m | B | % | 
+--- 
+int-1:
+piano    | AM7 | % | E | % |
+         | AM7 | % | B | B7 |
+         | C#m | B | A | % |
+         | E | str A E |
+--- 
+B:
+uddu     | E | A | F#m | E | x2 
+str      | G | E |
+uddu     | E | A | F#m | E | x2 
+ek       | G | % | E | % |
+         | D | % | A | A- B- |
+---
+A:
+---
+pehla    | E | C#m | B | % | 
+---
+int-2:
+sax     | E4 | E | D4 | % |
+        | A7 | % | G | % |
+        | A7 | % | E (fl)| E |
+str     | E | % |
+---
+B:
+---
+A:
+---
+ending: 
+fl      | B4 | % | % | % |
+        | B4 - |

@@ -1,0 +1,85 @@
+dilbar-mere - Fm - 3/4
+
+intro:
+cowbell    | - | - | -congo | - |
+organ      |Fm/.|./.|./.| - |
+str        | Fm | % | % | % | 
+org        |Fm..|.//|//.|//.//|
+syn ld     | Fm | % | % | % |
+           | Eb | % | 
+str        | Eb | % | % | % |
+           | Db | Fm/-|
+
+hey         | Fm | % |
+lala        | Eb | % | % | % |
+trmpt       | Eb | % | % | % |
+            | Fm | //-|
+---
+A:
+dilbar      [| Fm | % | Db | Fm |
+            | Db | % | Gb | % |
+            | Gb | % | Fm | % |
+            | C7 | % | Fm | % |] x2 
+
+ekdin      | F | Bb | % | % | 
+           | F | Bb | % | Gb | 
+mai        | Gb | % | Fm | % |
+           | C7 | % | Fm | % |
+---
+int-1:
+str         | Fm | % | % | % |
+            | C7 | % | % | % |
+            | Db | % | C7 | % |
+            | C7 | Eb | Db | % |
+            | Ab | % | Fm | % |
+
+mtd.gtr     | Fm | Eb | C7 | Fm/-|
+---
+B:
+socho      [| F | % | % | % |
+            | Bb | % |
+            | Eb | % | % | % |
+            | Ab |1: F |2: Ab |] x2 
+
+oh dil      | Ab | F7 | Bbm | % |
+            | Bbm | % | Fm | % |
+---
+dilbar      | Fm | % | Db | Fm |
+            | Db | % | Gb | % |
+            | Gb | % | Fm | % |
+            | C7 | % | Fm | % |
+---
+int-2:
+pizz        | Fm | % | Eb | % |
+            | Db | % |
+str         | Db | % | Eb | - |
+
+lala        | Fm | % | % | Eb |
+            | Db | % | Fm | C7 |
+
+fl          | Fm - | / - | / - |/./|
+trmpt       | Eb | % | % | % |
+            | Eb | % | Fm | % |
+            
+str         | Eb | Db | Fm | % |
+            | Eb | Db | C7 | Fm/-|
+---
+B:
+--- 
+dilbar      | Fm | % | Db | Fm |
+            | Db | % | Gb | % |
+            | Gb | % | Fm | % |
+            | C7 | % | Fm | % |
+
+ekdin           | F | Bb | % | % | 
+            | F | Bb | % | Gb | 
+mai               | Gb | % | Fm | % |
+            | C7 | % | Fm | % |
+
+dilbar      | Fm | % | Db | Fm |
+            | Db | % | Gb | % |
+            | Gb | % | Fm | % |
+            | C7 | % | Fm | % |
+---
+ending:
+wstl                | C7 | % | Fm | % |

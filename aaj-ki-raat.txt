@@ -1,0 +1,82 @@
+aaj-ki-raat - B - 4/4
+
+intro:
+perc             | - | - | - | - | x4
++frog            | - | - | - | - | x4
++syn/disco stab  | - | - | - | - | x2  (perc stop last 2 bars)
+
++syn bass        | B7 | % | % | % | x2  (s p s pn)
+syn bow          | B7 | % | % | % | x2  (s,p  n,m  m2r1s)
+                 | B7 | % | % | % | 
+---
+A:
+shaam hai       | B7 | % | % | % |
+                | G | % | % | % |
+                | B7 | % | % | % |
+                | A | % | % | % |
+
+chayi hai       [| F#m | % | % | % |
+                 | E | % | D | % |] x2
+
+kyu             | BM7 | % | % | % |
+                | AM7 | % | % | % |
+                | Em | % | % | % |
+                | B | % | A - (aaj ki) (ndp) | - |
+---
+chorus:
+aaj ki          [| B | % | % | % |        2nd time(ns,ns,ns,ns,ns)
+                | A | % | % | % |                 (nr,nr,nr,nr,nr)
+                | Em7 | % | % | % |               (ng1,ng,ng,ng,ng)
+                | B | % | (aaj ki) (ndp) | - |] x2 (ng2,ng,ng,ng,ng)
+
+disco stab      | - | - | - | - |
+---
+int-1:
+syn/piano       | B5 | % | % | C#5,A5,| x4 (syn bend down)
+---
+B:
+doh             | F#m | % | % | % |
+                | B | % | . (gm,|p) |
+                | F#m | % | % | % |
+                | B | % | % | % |
+
+kon             | E | % | % | % |
+                | B | % | % | % |
+
+faisla          | BM7 | % | % | % |
+                | AM7 | % | % | % |
+                | Em | % | % | % |
+                | B | % | A - (aaj ki) (ndp) | - |
+
+---
+chorus (aaj ki raat):
+---
+int-2:
+gtr echo        | BM7 | % | % | % |   (|-|-|s|%|)
+                | AM7 | % | % | % |   (|n|%|%|%|)
+                | F#m7 | % | % | % |  (|p|%|%|%|)
+                | AM7 | % | % | % |   (|n|%|%|%|)
+                
++voice stab     | BM7 | % | % | % |   (|p|%|%|%|)
+                | AM7 | % | % | % |   (|m|%|%|%|)
+                | F#m7 | % | % | % |  (|r|%|%|%|)
+                | E | % | % | % |     (|m|%|%|%|)
+
+                | B | % | % | % |     (ns,ns,ns,ns,ns)
+                | A | % | % | % |     (nr,nr,nr,nr,nr)
+                | Em7 | % | % | % |   (ng1,ng,ng,ng,ng)
+                | B | % | % | % |     (ng2,ng,ng,ng,ng)
+
++syn bass        | B7 | % | % | % | x2  (s p s pn)
+---
+B:
+---              
+chorus (aaj ki raat):
+---
+ending:
+perc             | - | - | - | - | x2
+
+syn             [| B | % | % | % |     (ns,ns,ns,ns,ns)
+                | A | % | % | % |      (nr,nr,nr,nr,nr)
+                | Em7 | % | % | % |    (ng1,ng,ng,ng,ng)
+                | B | % | % | % |] x2  (ng2,ng,ng,ng,ng)

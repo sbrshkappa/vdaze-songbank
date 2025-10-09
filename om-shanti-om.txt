@@ -1,0 +1,85 @@
+Om Shanti Om - 4/4 - F
+
+intro:
+
+Horns       | \ | \ | (notes F..C Eb..C EbCEbF)
+
+pause       ..
+
+Tambourine  | \ | \ | +snare | \ |
+            | +conga | \ | +bass | \ |
+            | \ | \ | \ | \ |
+
+Syn lead/Wah  | CM7 | % | BbM7 | % |
+              | Bbm7 | % | AbM7 . . x | trmpt % |
+              | C#6 | .%%%.%%% . |
+
+E.Gtr/Bass    | \ | \ | \ | (notes  BC#DB CDD#C C#D#ED# F...) 
+
+Hai tum (bass)  | \ | \ | \ | \ |
+                | +snare | \ |
+
+Horns       | F..Eb.Dm.F | F..Eb.Dm.F| x2
+
+Perc/mtd gtr    | F | Eb |
+------------------------
+Pallavi:
+La la la       | F | Eb | x2
+
+Meri umar ke   | F | Eb | 
+La La          | F | Eb |
+Dilla laga     | F | Eb |
+
+Maine           | F | C7 | F | C7 |
+Are jhoot       | C7 | Bb | F C7 | F | x2  
+
+Chalta          | Dm C7 | Bb C7 | 
+
+Is rokku        | Dm | Dm \ (muted gtr DC#C) |
+-----------------------
+Om Shanti   | F | % | % | % | % | % |
+Om          | Dm | C7 | F | % |
+----------------------- 
+Interlude 1:
+Mtr Gtr/Wah | F...Eb | Eb...F | x2
+gtr         | F | % |                |Sn mpS|Sn,pm,g1s .mpn,s|
+syn perc.   | F | Eb |               |.sp n ss,p ns|.nm p nn,m pn| x2
+            | F | Eb | F | Eb |.     |.s ss r,g1 rn|rrg r,ns|x2
+Ep delay    | (Fm run with #6) | \ |
+-----------------------
+Charanam:
+Maine kisi  | Dm | F | Gm | F (FM7 horns) |
+Aaya        | Bb | C7 | Bb | C7 |            (2nd time | Bb | C7 | 
+Koi         | C7 | F |                         | C7 | F | C7 | F |)
+
+Woh         | Dm C7 | Bb C7 |  x2
+Is rokku    | Dm | Dm \ (muted gtr DC#C) | 
+
+-----------------------
+Om Shanti   | F | % | % | % | % | % |
+Om          | Dm | C7 | F | % |
+----------------------- 
+Interlude 2:
+Drums       | \ | \ | 
+
+Cham cham   | F | Eb | Dm | C | x2 (rep with trmpt)
+
+a.sax lead  | Dm9 | % | Ebm9 | % |  (voice on 3M7- 5+7+1+3)
+            | Fm9 | % | Gm9 | % | 
+            | F | C7 | Bb | C7 |
+            | Bb | C7 | Bb | C7%%% %%%% %%%% |
+
+Laa (gtr fill)  | F | Eb | Dm | F |
+-----------------------
+Repeat Charanam
+---------------------- 
+Meri umar ke    | F | Eb | x2
+Maine           | F | C7 | F | C7 |
+Are jhoot       | C7 | Bb | F C7 | F | x2  
+
+Chalta          | Dm C7 | Bb C7 | 
+
+Is rokku        | Dm | Dm \ (muted gtr DC#C) |
+-----------------------
+Om Shanti       | F | % | % | % | % | % |
+Om              | Dm | C7 | F | % |

@@ -1,0 +1,72 @@
+jab-koi-baat-bigad-jaye - D - 4/4
+
+intro:
+pan fl      | - | - | - | - | x2
++perc       | D | % | % | % |
+
+piano       | D | % | Bm | % |
+            | F#m | % | G | % |
+            | C | % | Em | % |
+            | A7 | % | D | % |
+
+str         | G | % | % | % |
+            | G | % | D - | - |
+---
+A:
+          [
+jab koi     | D | % | Bm | % |
+            | D | % | G (2nd time Em ) | % |
+            | D | % | Em | A7 |
+            | D | % | % | % |
+          ] x2
+
+na koi      | D | % | Bm | % |
+            | Em | % | G | % |
+            | D | % | Em | A7 |
+            | D | % | % | % |
+tum de na   | Em | % | A7 | G |
+            | D | % | % | % |
+            | D |
+---
+int-1:
+whistle     | D | % | Bm | % |
+            | F#m | % | G | % |
+            | C | % | Em | % |
+            | A7 | % | D | % |
+
+sax         | D | % | Em | % |
+            | D | Em | D | % |
+---
+B:
+          [
+woh chand   | D | % | F#m | % |
+            | D | % | G | % |
+            | Em | % | Am | % |     
+            | A7 | % | D | % |
+
+gtr         | D | % | % | % |
+          ] x2
+
+jab koi     | D | % | Bm | % |
+            | D | % | Em | % |
+            | D | % | Em | A7 |
+            | D | % | % | % |
+
+na koi      | D | % | Bm | % |
+            | Em | % | G | % |
+            | D | % | Em | A7 |
+            | D | % | D - | - |
+---
+int-2:
+syn str     | D | Bm | D | % |
+            | Em | A | Em | % |
+            | A | Em | Bm | % |
+            | D | % |
+
+gtr         | D | % | % | % | x2
+
+fl/sitar    | D | % | Em | % |
+            | Bm | % | D | % |
+---
+B:
+---

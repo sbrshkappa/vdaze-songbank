@@ -1,0 +1,35 @@
+Mukkala Muqabla - Dm 4/4
+
+intro:
+          | Dm | % | % | Am7 | % | % |
+          | Dm | % | Am7 | 
+
+          | Dm | % | Dm9 | % |
+
+Rythm (Bell)    | Dm | Bb | C | Am | x2
+---
+A:
+
+Mukkala     | \ | \ | \ | \ | x2
+Lovukku     | Dm | Am | Gm7 | Am |
+Pollada     | Dm | Am | Gm7 | Dm -ole-o |
+Mukkala     | \ | \ | \ | \ | x2
+---
+int-1:
+
+              | Dm | Am | Gm7 | Am | x2
+gtr           | \ | \ | \ | \ |
+---
+B:
+
+Jurassic    | Dm | Gm7 | Dm | Am | x2
+Cowboy      | Dm | % | % | % | x2
+nam kadal   | Dm G | G | Dm7 | % |
+Mukkala     | \ | \ | \ | \ | x2
+
+---
+int-2
+            | \ | \ | \ | \ | x2
+---
+B:
+---

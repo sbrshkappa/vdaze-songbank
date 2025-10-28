@@ -1,0 +1,60 @@
+Rum Bum Bum - D - 4/4
+
+intro:
+
+just drums  | \ | \ | \ | \ |
+gtr         | D7 | % | % | % | x 2
+trmpts      | D | % | G7 | % | x 2
+            | D7 | % | % | D | x 2
+
+------
+Pallavi
+
+Rum bum.    | D F# G ,| D F# G , | D F# G , | G , D , | x 2
+
+Yezhu..     | D | % | % | G7 | x 2
+Rahu kal..  | G\ | \ |            
+
+Rum bum.    | D F# G ,| D F# G , | D F# G , | G , D , | x 2 (2nd time piano on high D)
+
+---
+int 1:
+
+gtr         | D7 | (piano play 9)
+            | D | % | % | % |
+            | % | % | % | G7 | % |
+            | % | D7 | % |  
+bass        | (C.B.A.D C.B.A.D)| (C.B.A.D) \ | x 2
+trmpts      | (C.B A#.A A#.B C) | D | (C.B A#.A A#.B C) | D |
+---
+Charanam:
+Neram..     | D7 | % | G7 | % | x 2
+One 0 clk.. | D7 | G7 | D7 | G7 | x 2
+Velai..     | D7 | % | G7\| \ |
+
+----
+(Pallavi repeats)
+____
+int 2:
+
+gtr         | D7 | % | %| \ piano |  (G#AD CAG# DFF# DCA) x 2
+trmpt+sax   | D7 | % | % | % | (piano triplet DDD DDD DDD DDD)
+            | % | % | G7 | % |
+            | % | % | D | % |
+            | % | % | G7 | % |
+            | D | % | D | % |
+----
+(Charanam repeats)
+
+---
+(Pallavi Repeats)
+
+----
+outro:
+
+(Rum Bum Bum Speeeds up) x 8
+(Drum Roll to end)
+
+
+
+--

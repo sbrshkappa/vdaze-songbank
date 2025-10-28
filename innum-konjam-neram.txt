@@ -1,0 +1,47 @@
+Innum Konja Neram - C - 4/4
+
+Intro:
+Accordion+Pads		| C Em/B | Am | F Em | Am |
+Flute			| Am Am/G | FM7 | F G | Am |
+			| C | G | C/F | % |
+
+Ac Gtr			| C | F | C | F |
+---------------
+Pallavi:
+Innum konjam		| C | F | F G4  | F C | x 3
+Innum pesa		| C Am | Em Am | G | F C |
+			| Am | Em Am | Am G | F . G7 C |
+			| G |
+
+Innum			| CM7 | FM7 | F Gm7 | C F |
+--------------
+Interlude 1:
+Acc 			| Gm11/Bb F | CM7 . CM7/F CM7/E |
+Solo violin		| Am G | C F/C | G/C C |
+--------------
+Charanam
+Idhu varaikkum		| \ | \ | bass | bass |   
+Edhir pathu		| C CM7 | F | BbM7 F | G4(7) Gm7 |  
+
+Nee vandu		| CM7 Am | G FM7 | G | F CM7 |
+Un kannu		| Am7 | G C | Am G | F G7 | G |
+
+Innum Konjam		| CM7 | FM7 | Gm11 | C/F |
+Innum			| CM7 BbM7 | FM7 | Dm7 Gm7 | C G7sus4 |
+-------------
+Interlude 2:
+Strings			| Am | % | Dm C Bb Am G F | F G |
+Flute			| C F | Bb G | Am Gm | CM7 |
+--------------
+Charanam:
+Kadal Maada		| C CM7 | F | BbM7 F | G4(7) Gm7 | 
+Yen Kannu		| Am7 | CM7 | F | Gm7 |
+
+Indha			| CM7 Am | G FM7 | G | F CM7 |
+Indha			| Am7 | G C | FM7 G | F G7 | G |
+
+Innum Konjam		| CM7 | FM7 | Gm11 | C/F | x2
+Nee yen			| C Am | E FM7 | G | F CM7 |
+Nee			| Am | G C |
+
+ulagam (perc stop)	| F | G C | F | C |

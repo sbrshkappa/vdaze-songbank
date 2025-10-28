@@ -1,0 +1,45 @@
+IITere Bina Zindagi - Cm - 4/4
+
+
+Santur          Cm... glissando
+Sitar           Eb ... p gmp mp r~s g
+Flute	        Bb ...pd1n1sr... Strings (Bb Fm)
+
+Sitar Rythm     | Cm | Bb | Ab Bb | Conjurerm |  (pd1p gpg |mpm rmrs | n~d | . s, g, p)
+--------------
+Tere bina	| G4 \ | Eb % . . | 
+Shikwa		| Eb | Ab | G7 Fm | Eb | Ab G7 |
+Tere            | G4 | Eb | % | Ab | G7 Fm | Eb | Ab G7 |
+Tere            | G4 | Eb | % |
+---------------
+Interlude
+strings	        | Cm |
+Accordion	| Cm Bb | EbM7 | % | Cm Ab | Cm | (s ns n~s; p grg rnpn r,s...pd1p)
+--------------
+Antara:
+Kaash		| Cm G | Ab | F | % | Bb | Cm | x2
+Tum		| Bb | F | % | Cm |
+--------------
+Tere bina	| G4 \ | Eb % . . | 
+Shikwa		| Eb | Ab | G7 Fm | Eb | Ab G7 |
+--------------
+Interlude
+Strings		| Cm | % | Gm | Bb7 |
+Accordion       | Cm | Bb |            grs..rgrgr ns~r
+Sitar           | Eb | Cm |            .mg pm d1p     (strings nn2s)
+----------------
+Repeat Antara
+--------------
+Tere bina	| G4 \ | Eb % . . | 
+Shikwa		| Eb | Ab | G7 Fm | Eb | Ab G7 |
+Tere            | G4 | Eb | % | Ab | G7 Fm | Eb | Ab G7 |
+---------------
+Interlude:
+Sitar           | Cm Ab | Fm .Cm | Cm Ab | Fm |  (s,gs d,p,g m,,,p,,, s,gs d,p,g m)
+Strings         | Gm | Fm | Cm Bb | Cm |         (|\ | \ | \ | .dp ns)
+--------------
+Repeat Antara
+---------------
+Repeat tera
+-------------
+

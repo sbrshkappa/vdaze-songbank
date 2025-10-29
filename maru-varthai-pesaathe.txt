@@ -1,0 +1,102 @@
+maru-varthai-pesaathe -  Eb
+
+intro
+
+ha....      | Eb | % | % | % |
+Piano       | Eb4 | % | % | % |
+gtr         | Eb4 | % | % | % |
+flute       | % | % | % | % | x 3
+drums       | Eb4 | % | % | % | x 2  
+
+---
+Chorus:
+
+Maru..      | Eb4 | % | % | % |
+Madi...     | EbM7 | % | % | % |
+Imai...     | Eb4 | % | % | % |
+Kanavaai..  | EbM7 | % | % | % |
+
+Mayil..     | Eb4 | % | % | % |
+Unnai...    | EbM7 | % | % | % |
+Manam...    | Eb4 | % | % | % |
+Uraiyaa...  | EbM7 | % | % | % |
+
+Vizhi..     | Eb4 | % | % | % |
+Imai...     | Eb4 | % | % | % |
+Thulli...   | Ab | % | Bbm | % |
+Kadal...    | Ab | % | Bbm | % |
+
+Maran..     | Eb4 | % | % | % |
+Ninai...    | Eb4 | % | % | % |
+Piri..      | Ab | % | Bbm | % |
+Oru..       | Ab | % | Bbm | % |
+
+---
+int1:
+
+flute       | Eb | % | % | % |
+            | EbM7 | % | % | % |
+            | Ab | % | Bbm | % |
+            | Ab | % | Bbm | % |
+            | Eb4 | % | % | % |
+
+---
+Verse:
+
+Vidi..      | Eb4 | % | % | % |
+Mudi..      | EbM7 | % | % | % |
+Vadiyaa...  | Bb | % | % | % |
+Thuligal..  | Eb | % | % | % |
+Piri..      | Bb | % | % | % |
+Nodigal..   | Eb | % | % | % |
+Manikaa...  | Bbm | % | % | % |
+Tharum...   | Eb | % | % | % |
+Udai..      | Bbm | % | % | % |
+Athan..     | Eb | % | % | % |
+Maravaa...  | Bbm | % | Ab | % |
+Madin...    | Bbm | % | Ab | % |
+Muthal...   | Bbm | % | Db | % |
+            | Eb | % | % | % |
+Alar..      | Bbm | % | Db | % |
+            | Eb | % | % | % |
+---
+int 2:
+
+flute       | Ab | % | Bbm | % | x 2
+            | Eb | % | % | % | x 4
+
+---
+verse 2:
+
+(No drums)
+Tholai...   | DbM7 | % | EbM7 | % |
+Thodu...    | DbM7 | % | EbM7 | % |
+Vizhi...    | Bb | % | % | % |
+            | Eb | % | % | % |
+Uyiro...    | Bb | % | % | % |
+            | Eb | % | % | % |
+
+(Drums comes back)
+Idhal..     | Bbm | % | % | % |
+Kadi...     | Eb | % | % | % |
+Baadhil..   | Bbm | % | % | % |
+Kanava...   | Eb | % | % | % |
+
+Pidi...     | Bbm | % | Ab | % |
+Sinam..     | Bbm | % | Ab | % |
+Izhandom..  | Bm | % | Db | % |
+            | Eb | % | % | % |
+Inimel..    | Bm | % | Db | % |
+            | Eb | % | % | % |
+---
+int 3:
+
+flute       | Ab | % | Bb | % |
+
+---
+(Chorus Repeats)
+---
+outro:
+
+alaap       | Ab | % | Bb | % | x 8
+Maru...     |(no instruments) |

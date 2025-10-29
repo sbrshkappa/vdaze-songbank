@@ -38,7 +38,7 @@ ____
 int 2:
 
 gtr         | D7 | % | %| \ piano |  (G#AD CAG# DFF# DCA) x 2
-trmpt+sax   | D7 | % | % | % | (piano triplet DDD DDD DDD DDD)
+trmpt+sax   | D7 | % | % | % |
             | % | % | G7 | % |
             | % | % | D | % |
             | % | % | G7 | % |

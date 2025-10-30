@@ -1,0 +1,67 @@
+vaaleduthal-angakali -- Ebm
+
+intro
+
+gtr strum               | Eb5 | % |
+gtr intro               | Eb5 | % | % | % |  x 2
+
+---
+prechorus:
+
+vaaleduthal             | Eb5 , , , &Db| % | % | % |
+                        | % | % |
+Kurumba..               | Eb5 , , , &Db| % | % | % |
+Madayante..             | Ebm | Db | Ab | Ab Gb |
+Pullu..                 | Ebm Db | Ab Gb |
+
+---
+chorus:
+Attakadi..              | Eb5 , , , &Db| % | % | % | x 2
+vaaleduthal..           | Eb5 , , , &Db| % | % | % |
+
+---
+int 1:
+
+strings                 | Eb5 , , , &Db| % | % | % | x 2 
+
+---
+verse 2:
+
+Meeshakaran..           | Eb5 , , , &Db| % | % | % | x 2 
+Pottu..                 | Eb5 , , , &Db| % | % | % |
+Hey Meesha...           | Eb5 , , , &Db| % | % | % |
+Ushiritta..             | Bbm | Ebm | Bbm | Ebm |
+Chadukudu..             | Ebm Ab | Db Ebm |
+Murukante..             | Ebm | Db | Ab | Ab Gb |
+
+---
+(chorus repeats) 8 bars no drums
+
+---
+int 2:
+
+drums                   | \ | \ | \ | \ |
+yehi...                 | Eb5 , , , &Db| % | % | % | x 2 
+mandolin..              | Ebm | Bbm | Ebm | Bbm |
+na na na...             | Eb5 | % | % | % |
+---
+verse 3:
+
+Ho Thanda...            | Eb5 , , , &Db| % | % | % |
+Hey Kayam..             | Eb5 , , , &Db| % | % | % |
+Tharuthala..             | Bbm | Ebm | Bbm | Ebm |
+Ushirullu..             | Ebm Ab | Db Ebm |
+Padavetti..             | Ebm | Db | Ab | Ab Gb |
+---
+chorus:
+
+Attakadi..              | Eb5 , , , &Db| % | % | % | x 2
+vaaleduthal             | Eb5 , , , &Db| % | % | % |
+                        | % | % |
+Kurumba..               | Eb5 , , , &Db| % | % | % |
+Madayante..             | Ebm | Db | Ab | Ab Gb |
+Pullu..                 | Ebm Db | Ab Gb |
+---
+outro:
+
+Attakadi..              | Eb5 , , , &Db| % | % | % | x 2

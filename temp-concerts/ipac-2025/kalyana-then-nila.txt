@@ -1,0 +1,74 @@
+Kalyana Then Nila - Dm - 3/4
+
+Intro:
+
+Guitar		| Dm | % | Am . Dm | Dm |
+		| F | % | C | % |
+		| Dm | % | Am | % |
+		| Dm | % | Am . Dm | Dm |
+
+Strings		| Dm | Dm . C | Am . Dm | flute - Dm C Dm |
+		| C | C . Dm | Dm . C | flute - C Dm E-dim |
+		| Dm | C . Dm | C . Dm | bass only (A C D) |
+--------------
+Pallavi:
+Kalyana		| Dm | \ | C | Dm |
+Kaichada	| C | Am | Dm | % |
+
+Needane		| Dm | % | C | Dm |
+		| C | Am | Dm | % |
+
+Theyada		| C | % | Am | % | x2
+Aagayam 	| Am | % | Dm | % |
+
+Kalyana		| Dm | % | C | Dm |
+		| C | Am | Dm | % |
+----------------
+Interlude 1:
+Syn ld / Piano	| Dm | % | % | % |
+ 		| Dm | % | C | % |
+		| F | % | % | % |
+		| C | % | % | % |
+
+Strings		| F . C | Dm . C | Dm | C (flute) |
+		| F . C | Dm . C | C . Dm | C (flute) |
+		| C | F | C | Dm |
+		| C | F | C | % |
+-----------------
+Charanam:
+Thenpandi	| Dm | % | % | % |
+		| Am | % | Dm | % |
+Theerada	| Am | % | % | Dm |
+		| Dm | % | Am | Dm |
+
+Yenn anbu	[| Dm | Am | Dm | % |
+		 | Am | % | F | % |] x2
+
+Paarpome	| Dm | % | % | % |
+		| C | Dm | C | % |
+--------------------
+Kalyana		[| Dm | % | C | Dm |
+		 | C | Am | Dm | % |] x2
+--------------------
+Interlude 2:
+Flute		| \ | \ | strings C-add9 | % |
+		| F \ | \ | FM7 | % |
+
+Flute		[| Dm | % | C | % |
+		 | Dm | % | FM7 | % |] x2 (2nd time guitar)
+
+Strings		| Dm . C | Dm . C | Am . Dm | Dm |
+		| F | % | C | Am |
+		| Dm . C | Dm . C | Am . Dm | Dm |
+		| F | Dm | % | guitar - C Dm F |
+-------------------
+Repeat Charanam
+--------------------
+Kalyana		[| Dm | % | C | Dm |
+		 | C | Am | Dm | % |] x2
+
+Theyada		| C | % | Am | % | x2
+Aagayam 	| Am | % | Dm | % |
+
+Kalyana		| Dm | % | C | Dm |
+		| C | Am | Dm | % |

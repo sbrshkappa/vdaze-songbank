@@ -31,8 +31,10 @@ echo "Creating temp directory: $TEMP_DIR"
 echo ""
 
 # Process each song in the concert file
-while IFS= read -r line; do
+while IFS= read -r line || [ -n "$line" ]; do
     # Skip empty lines and comments
+    # Strip any trailing carriage return (in case of CRLF)
+    line=${line%$'\r'}
     if [[ -z "$line" || "$line" =~ ^[[:space:]]*# ]]; then
         continue
     fi
@@ -66,6 +68,10 @@ def transpose_chord(chord, semitones):
     if not chord or chord.strip() in special_chars:
         return chord
     
+    # Preserve leading offbeat marker '&' by transposing the following chord only
+    if chord.startswith('&'):
+        return '&' + transpose_chord(chord[1:], semitones)
+
     # Chord mapping for transposition
     chord_map = {
         'C': 0, 'C#': 1, 'Db': 1, 'D': 2, 'D#': 3, 'Eb': 3, 'E': 4, 'F': 5,
@@ -103,7 +109,7 @@ def transpose_line(line, semitones):
     
     for part in parts:
         # Find chord patterns and transpose them, but preserve special characters
-        chord_pattern = r'\\b[A-G][#b]?[^|\\\\s]*\\b'
+        chord_pattern = r'&?[A-G][#b]?[^|\s]*'
         transposed_part = re.sub(chord_pattern, lambda m: transpose_chord(m.group(), semitones), part)
         transposed_parts.append(transposed_part)
     
@@ -122,7 +128,7 @@ with open('$TEMP_DIR/$song_file', 'w') as f:
         f.write(transposed_line + '\\n')
 
 print('  ✓ Transposed and copied')
-"
+" </dev/null
 
 done < "$CONCERT_FILE"
 

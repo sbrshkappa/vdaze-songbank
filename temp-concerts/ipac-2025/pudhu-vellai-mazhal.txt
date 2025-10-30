@@ -1,0 +1,53 @@
+pudhu-vellai-mazhai - Cm - 4/4
+
+Intro:
+
+syn bass          | Cm | % |
++harp             | Cm | % | % | % |
+
++perc             | Cm | % | % | % |
+
+ooh /bell         | Cm | % | % | % | x2
+                  | Cm | % |
+------
+verse 1
+pudhu vellai      [| Cm | % | % | % |
+ingu               | G4 F | C G | G4 F | C G |] x2 (once 2nd time)
+
+nadhiye           | Am | Em | F | G4 | x2
+                  | G4%%% % |
+
+pudhu vellai      | Cm | % | % | % |
+------
+interlude 1:
+sax             | Cm | Gm7 | % | Gm7 Cm |
+ooh             | Ab | Eb | Bb | % | x2
+                | Cm7 | % | Fm7 | % |
+
+                | C5 | % | % | % |
+-------
+verse 2:
+pen             | Cm | Gm | Ab | Bb | x2
+un pudavai      | Cm | Gm | Fm7 | Bb |
+idhu kamban     | Cm | Fm6 | G | - |
+----
+pudhu vellai      | Cm | % | % | % |
+ingu              | G4 F | C G | G4 F | C G |
+
+pudhu vellai      | Cm | % | % | % |
+------
+interlude 2:
+
+ep              | C5 | % |
+cello           | C5 | % | % | % (flute) |
+                | C5 | % |
+
++mand trem      | C5 | % | % | % |
+                | Fm | Gm |
+flute           | Ab | Bb | C5 | % |
+                | C5 | % |
+---------
+(verse 2)
+----------
+(verse 1)
+--------

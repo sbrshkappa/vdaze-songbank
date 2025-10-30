@@ -5,4 +5,6 @@ kalyana-then-nila.txt 0
 innum-konjam-neram.txt 0
 muqabla.txt 0
 rum-bum-bum.txt 0
-aaj-ki-raat-new.txt 0
+aaj-ki-raat(stree2).txt 0
+vaaleduthal.txt +5
+pudhu-vellai-mazhal.txt 0

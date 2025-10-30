@@ -1,0 +1,58 @@
+chinna-chinna-aasai - D - 4/4
+
+intro:
+pan fl      | - | - | - | - |
+
+mel drum    | - | - | - | - |
++str        | - | - | - | - |
+
+pan fl      | D | % | Em | Em A | x2
++bell       | D | % | Em | Em A | x2
+-----
+verse 1:
+            [
+chinna       | D | A | D | % |
+meuthu       | D | A | D | D D7 |
+
+vennilavu    | G | % | Am | D7 |
+yennai       | G | A | D / D / | A - |
+            ] x2
+
+chinna       | D | A | D | % |
+             | D | A | D | . . . violin |
+-----
+interlude 1:
+violin          | - | - | - | - |
+                | - | - |
++perc           | D | % | Em7 | Em7 A |
+
+gtr             | Em | A | Em | A |
+                | A | % | D - | flute |
+----
+verse 2:
+malligai        | D | % | Em | % | x2
+megangal        | D | G | % | A | x2
+paar            | D7 | G | A | D / D / | A - |
+------
+chinna       | D | A | D | % |
+meuthu       | D | A | D | D D7 |
+
+vennilavu    | G | % | Am | D7 |
+yennai       | G | A | D / D / | A - |
+
+chinna       | D | A | D | % | x2
+-------
+interlude 2:
+pan flute       | - | - | - | - |
++perc           | bell | - | bell | - |
+
++ tom           | - | - | - | - |
+
+yele            | D | % | G6/D | % | x2
+                | D | A | G | % | x2
+
++bell           | D | % | Em | % |
+                | D | % | Em | Em A |
+-------
+verse 2:
+--------

@@ -1,0 +1,69 @@
+koi-mil-gaya - A - 4/4
+
+koi-mil (adlib)  | A | E7 | D7 |          |A SpMG|E RnPm| D |
+
+mtd gtr / bras  | A | E7 | A | E7 |     (pp)ds(rsp)|s,s|-(pp)ds(rsp)|s,s|-|
+
+vox             | A | G | .A7.// ///./| % |
+                | D | E7 | A7 | % |
+
+brass           | G | C | A  %% %%%%%|      mps|r m,m|p m,m|pp // ///|
+-----
+verse 1:
+mujko   [| A | .G .// /| A | .xG .// / | x2
+beti     | Bm | G | E7 | A |
+
+koi-mil  | A | % | E7 | % | x2
+koi      | D | D7 \ |
+
+mil-hi  | A E7 | A E7 | A E7 | A | ] x2
+---
+int 1:
+gtr     | A | % | % | G | x2    pnp|S S SSSn|SP pnp|S S SSn2n1|
+
+hey hey [| A | G | % |
+         | Em | A | % |] x2
+
+perc      | A | % |
+
+trumpet   | A | E7 | A | G |            |(gm)p m g,r|rp|(gm)p m g,p|r|
+str       | G | % | D | A,/,/ ///.|
+--------
+verse 2:
+jaane     [| A | E7 | A | E7 |         fl |-| rg,mp|-|x2
+ye diwani  | G | D | E | A |] x2
+
+koi-mil  | A | % | E7 | % | x2
+koi      | D | D7 \ |
+
+mil-hi  | A E7 | A E7 | A E7 | A |
+---------
+int 2:
+mtd gtr / syn   | A .G | - | Em .A | - | x2     |(ss)n s,n|ss,n sn|(ss)n s,n|ss,n gm|x2
+
+trumpet     | G | % | A | % |                   |. ns, r,s|r(sn)pn -|-|grg sr,g mp|
+
+do do       | A D | D E7 | A | % |
+            | A D | D E7 |
+
+brass       | A | G | C | A% %%%% |
+------
+verse 2
+-------
+verse 1:
+mujko   [| A | .G .// /| A | .xG .// / | x2
+beti     | Bm | G | E7 | A |
+
+koi-mil  | A | % | E7 | % | x2
+koi      | D | D7 \ |
+
+milhi (no drums)  | A E7 | A E7 | A E7 | A |  x2
+----
+ending
+
+perc    | - | - |
+flute   | F | % | E | % |               |F -(gr),s .p|dns|(rg),s r,m|g s|
+        | A | D | C | A |               |A -(rs),n ,p|dns|(rg),s r,s|n p|
+                                        |(sr)g s-r-g-m-p|d,m p,g sr|g1-r-n (r,n r,n)|(snp)S|
+
+gtr     | A | G | A | G | x2         m,gr|s p,ds(rsp)|r|- p,ds(rsp)|n|x2

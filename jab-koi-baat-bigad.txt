@@ -70,3 +70,32 @@ fl/sitar    | D | % | Em | % |
 ---
 B:
 ---
+Main Tenu
+
+
+piano          | DM7 | A/D |
+melodica       | A .D | A .D | G-add9 | A4 .A |
+gtr            | D | % |
+
+mein jeena      | G | D | G | D | 
++mel            | Bm | A | Bm | G | 
+                | A4 \ |
+-------
+Verse 1:
+main tenu       [ | G | D | G | D | x2
+tu ke             | Bm | F#m | G | A |
+                  | Em7 | A | ] x2
+
+main tenu       | G | D | G | D | 
+-------
+Interlude 1:
+Flute/syn       | D | % | % | % |
+                | G | A |
+                | Bm | F#m | G | A |
+-------
+Verse 2:
+Mere dil        | D | G | Em | DM7 | x2
+jeena           | Em7 | F#m | G | DM7 |
+kar             | Bm | F#m | G | A |
+                | Em7 | A | 
+main tenu       | G | D | G | D | 

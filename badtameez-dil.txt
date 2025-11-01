@@ -1,52 +1,52 @@
-Badtameez Dil - Dm - 4/4
+Badtameez Dil - Cm - 4/4
 
-Trumpet/Pads (adlib)	| BbM9 | EbM9add13 | C#9b5b9 | CM9add13 F7 |
+Trumpet/Pads (adlib)	| AbM9 | DbM9add13 | B9b5b9 | BbM9add13 Eb7 |
 
-Perc (trumpet)		| \ (Eb.%) | \ (Eb%) | x2
+Perc (trumpet)		| \ (Db.%) | \ (Db%) | x2
 
-Pa pa ra +Bass		| Dm | Bb | Dm | Bb |
+Pa pa ra +Bass		| Cm | Ab | Cm | Ab |
 ----------
 Pallavi:
 Paan		| \ | \ | \ | \ |
-Pa pa ra	| Dm | Bb | Dm | Bb |
-Meri baat	| \ | . . (Dm C#+ | C) \ | \ |
-Pa pa ra	| Dm | Bb | Dm | Bb | 
+Pa pa ra	| Cm | Ab | Cm | Ab |
+Meri baat	| \ | . . (Cm B+ | Bb) \ | \ |
+Pa pa ra	| Cm | Ab | Cm | Ab | 
 
 
-Iske		| Dm | C | Dm | C |
-Yudko		| Gm7 | A \ |
+Iske		| Cm | Bb | Cm | Bb |
+Yudko		| Fm7 | G \ |
 
-Badtameez	| Dm | Bb | Dm | Bb |
-Yeh jo		| Am | C |
-Badtameez	| Dm | Bb |
+Badtameez	| Cm | Ab | Cm | Ab |
+Yeh jo		| Gm | Bb |
+Badtameez	| Cm | Ab |
 -----------
 Interlude 1:
-Trmpt		| Dm | Bb | Dm | Bb |  (|D A . .A|DF G F D C|
-				  	|D A FED A| D A CDE D C|)
+Trmpt		| Cm | Ab | Cm | Ab |  (|C G . .G|CEb F Eb C Bb|
+				  	|C G EbDC G| C G BbCDb C Bb|)
 ----------
-Hawa		| Dm | Bb | C | Am Dm |
-Pa pa ra	| Dm | Bb | 
+Hawa		| Cm | Ab | Bb | Gm Cm |
+Pa pa ra	| Cm | Ab | 
 
-Bollywood	| Dm | BbM | C | % |  (voice |Dm|% |D2(4)|%|)
+Bollywood	| Cm | AbM | Bb | % |  (voice |Cm|% |C2(4)|%|)
 
-Sheek		| Dm | C | Dm | C |
-Yudko		| Gm7 | A \ |
+Sheek		| Cm | Bb | Cm | Bb |
+Yudko		| Fm7 | G \ |
 
-Badtameez	| Dm | Bb | Dm | Bb |
+Badtameez	| Cm | Ab | Cm | Ab |
 -----------
 Interlude 2
-Trumpet	    | Dm A | Dm A | Bb A | Gm A | (|A.DFA G FE|%|%|GABbDbE GBbA|) 
-	    | Dm | Bb | % | Bb C |  (|AA GGG F G DF|A G.G F|GF GCBAGF#F 				      EDCB BD|F A G F E~|)
+Trumpet	    | Cm G | Cm G | Ab G | Fm G | (|G.CEbG F EbD|%|%|FGAbBDbD FAbG|) 
+	    | Cm | Ab | % | Ab Bb |  (|GG FFF Eb F CEb|G F.F Eb|FEb FBbAGFEEb 				      DCBbA BD|Eb G F Eb D~|)
 -----------
 Charanam:
-Aaj saare  	| Dm | Gm7 | Dm | Gm7 |
-Chalk		| Dm | Gm7 | Gm7 C | A |
+Aaj saare  	| Cm | Fm7 | Cm | Fm7 |
+Chalk		| Cm | Fm7 | Fm7 Bb | G |
 
-na tha		| Dm | C | Dm | C |
-Yudko		| Gm7 | A \ |
+na tha		| Cm | Bb | Cm | Bb |
+Yudko		| Fm7 | G \ |
 
-Badtameez	| Dm | Bb | Dm | Bb |
-Yeh jo		| Am | C |
-Badtameez	| Dm | Bb |
+Badtameez	| Cm | Ab | Cm | Ab |
+Yeh jo		| Gm | Bb |
+Badtameez	| Cm | Ab |
 
-Trmpt		| Dm | Bb | Dm | Bb |  x2
+Trmpt		| Cm | Ab | Cm | Ab |  x2

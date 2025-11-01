@@ -1,0 +1,55 @@
+Dum Maro Dum - Dm -4/4
+
+
+Syn hum	     | - | - |
+Guitar	     | - | - |
+Perc	     | Dm | % |
+Guitar	     | Dm | % |
+Syn lead     | Dm | % |  (p Snp|m2|)
+Guitar	     | Dm | % |
+
+Guitar strum | Dm % %%%.%|A % ADm% . |
+----------------
+A:
+Dum	     | - | .Dm .% | % | % | % | % |
+Bolo	     | C | % | Dm | % | % | % |
+
+Dum	     | Dm | % | % | % |
+Bolo	     | C | % | Dm | % | % | % |
+-----------------
+Interlude 1:
+Guitar strum | Dm % %%%%%| A % Dm%%%%|
+Ta tara	     | Dm | Bb | Dm | A | Dm | 	
+
+Guitar strum | Dm % A%%%%|A % Dm%%-|
+----------------
+B:
+Duniya	     | - | C | % | Bb | % | A | % | Dm |
+El.Organ     | Dm | C7 Dm |
+Duniya	     | Dm | C | % | Bb | % | A | % | Dm |
+
+Guitar strum | Dm % C%%%%| Bb % A%%%%|
+Aaah	     | D C | Bb A - |
+
+Dum	     | Dm| .Dm .% | % | % | % | % |
+Bolo	     | C | % | Dm | % | % | % | % - whoosh |
+------------------
+Gap:
+Syn hum	     | - | . Hare Krishna | - | Hare Krishna | Arp up |
+Guitar	     | - | - Hare | Krishna | - | - | arp down |
+
+Guitar strum  | .Dm .Dm6 - | % | % | % | 
+Hare Krishna  | % | % | % | % |
+-------------------
+Dum	     | Dm| .Dm .% | % | % | % | % |
+Bolo	     | C | % | Dm | % | % | % | 
+
+Guitar/organ | Dm % %G% | % | 
+-------------------
+Chahe	     | - | C | % | Bb | % | A | % | Dm |
+
+Guitar strum | Dm % C%%%%| Bb % A%%%%|
+Aaah	     | D C | Bb A - |
+
+Dum	     | Dm| .Dm .% | % | % | % | % |
+Bolo	     | C | % | Dm | % | % | % | end abrupt

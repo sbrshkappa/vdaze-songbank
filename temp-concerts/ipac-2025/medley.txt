@@ -1,0 +1,34 @@
+Medley 
+
+Song 1: D
+
+Thandane        | D | C | D | D |
+violin          | C D G C | E Am|
+
+Keral           | D | D | A4 E | Am | D |
+
+
+Song 2: G
+
+Pinnale         | G | E | G |
+                | G | D | E | G |
+
+Thandana        | G  | D  | E | G |
+                | G | E | G |
+
+Song 3: Bb
+
+intro
+
+strings         | Bb | Cm | F | Bb |
+                | Gm | Eb | C | F |
+
+manjari..       | F Bb |
+                | Bb | Ab | Eb | Bb | F |
+
+int: 
+nadasawaram     | Bb | F | Bb |
+
+Verse:          | Bb | Dm |Eb | F |
+
+
